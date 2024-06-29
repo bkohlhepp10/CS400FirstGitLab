@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Author: Bennett Kohlhepp
+ * Email: bkohlhepp@wisc.edu
+ * Username: bkohlhepp
  */
 import java.util.*;
 

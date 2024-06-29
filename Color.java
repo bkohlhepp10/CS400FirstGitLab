@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Author: Bennett Kohlhepp
+ *	Email: bkohlhepp@wisc.edu
+ *	Username: bkohlhepp
  */
 public class Color{
 	private String color;
